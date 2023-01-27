@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674822026 source:c:\users\g.dziuba\documents\laboratorium4_zad\lab04_zad01_zad01\main.cpp
+	<iostream>
+	<numeric>
+	<vector>
+

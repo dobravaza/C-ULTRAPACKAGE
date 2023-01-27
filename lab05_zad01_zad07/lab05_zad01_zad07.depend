@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674824328 source:c:\users\g.dziuba\documents\laboratorium4_zad\lab05_zad01_zad07\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+
